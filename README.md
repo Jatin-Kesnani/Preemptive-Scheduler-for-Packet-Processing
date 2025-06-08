@@ -60,8 +60,6 @@ git clone https://github.com/Jatin-Kesnani/Preemptive-Scheduler-for-Packet-Proce
 cd preemptive-scheduler
 ```
 
-# Preemptive Scheduler
-
 ## Usage
 
 ### Compile the Program
