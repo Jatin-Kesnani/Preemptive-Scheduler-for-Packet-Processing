@@ -1,0 +1,26 @@
+3   6
+6   5
+4   4
+3   2
+10  5
+8   8
+7   4
+11  3
+9   2
+2   7
+
+
+3 6 9
+6 5 1
+4 4 8
+3 2 7
+10 5 4
+8 8 5
+7 4 6
+11 3 3
+9 2 2
+2 7 0
+
+g++ -o my_program "Preemptive Scheduler for Packet Processing.cpp" -pthread
+
+./my_program
